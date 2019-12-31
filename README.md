@@ -1,7 +1,11 @@
 #API Key
 
-go to openweathermap.org
+1. Go to openweathermap.org
 
-Sign up
+2. Signup or Signin
 
-get API key and provide it to .env file
+3. Get API key
+
+4. Provide it to .env file or direct to URL app_id
+
+6. NPM Start
